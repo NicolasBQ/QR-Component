@@ -1,3 +1,3 @@
 # Frontend Mentor Challenge - QR code component
 
-Demo: 
+Demo: https://nicolasbq.github.io/QR-Component/
