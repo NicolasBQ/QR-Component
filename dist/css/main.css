@@ -1,0 +1,67 @@
+body {
+  min-height: 100vh;
+  overflow: hidden;
+  background: #d6e2f0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: 'Outfit', sans-serif;
+}
+
+.title {
+  font-size: 2rem;
+  color: #1f3251;
+}
+
+.text {
+  font-size: 1.5rem;
+  color: #7b879d;
+}
+
+.image {
+  width: 100%;
+  border-radius: 0.75rem;
+}
+
+.main {
+  width: 80%;
+  max-width: 25rem;
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.main__content {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 2rem;
+  font-weight: 700;
+  color: #7b879d;
+}
+
+.footer__text {
+  font-size: 1rem;
+}
+
+.footer__link {
+  color: inherit;
+}
+
+.footer__link:hover {
+  text-decoration: none;
+  color: #1f3251;
+}
+/*# sourceMappingURL=main.css.map */
